@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ques122",
+      "request": "launch",
+      "mainClass": "ques122",
+      "projectName": "leetcode_47f4ef8b"
+    },
+    {
+      "type": "java",
       "name": "ques121",
       "request": "launch",
       "mainClass": "ques121",

@@ -24,7 +24,7 @@ public static void main(String[] args)
         prices[i]=sc.nextInt();
     }
     ques121 obj=new ques121();
-    System.err.println("Maximum Profit: "+obj.maxProfit(prices));
+    System.out.println("Maximum Profit: "+obj.maxProfit(prices));
 
 }
 }
