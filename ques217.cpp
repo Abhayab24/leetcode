@@ -20,3 +20,4 @@ int main(){
     cout << (res ? "true" : "false") << endl;
     return 0;
 }
+//getting a good understanding of sorting and array traversal
