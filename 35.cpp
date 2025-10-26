@@ -31,4 +31,4 @@ int main() {
     int target = 5;
     cout << sol.searchInsert(nums, target) << endl; // Output: 2
     return 0;
-}
+}//getting comment
