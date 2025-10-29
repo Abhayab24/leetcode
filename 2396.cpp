@@ -12,3 +12,4 @@ int main() {
     cout << boolalpha << sol.isStrictlyPalindromic(n) << endl; // Output: false
     return 0;
 }
+//getting comment
