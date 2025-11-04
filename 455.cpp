@@ -26,5 +26,5 @@ int main(){
      Solution obj;
     cout << obj.findContentChildren(g, s) << endl; // ✅ Output: 2
 
-    return 0;
+    return 0;//getting comment
 }
