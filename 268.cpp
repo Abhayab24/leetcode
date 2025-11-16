@@ -10,7 +10,7 @@ int missingNumber(vector<int> &nums){
     for(int x:nums){
         s+=x;
     }
-    return sum-s;
+    return sum-s;//missing number 
 }
 };
 int main(){
