@@ -20,7 +20,7 @@ public:
    
 };
 int main(){
-    Solution s; 
+    Solution s; //comment
     int n;
     cout<<"Enter size of array: ";
     cin>>n;
