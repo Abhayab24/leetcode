@@ -22,7 +22,7 @@ public:
 int main(){
     Solution s; //comment
     int n;
-    cout<<"Enter size of array: ";
+    cout<<"Enter size of array: ";//comment
     cin>>n;
     vector<int>nums(n);
     cout<<"Enter elements of array: ";
