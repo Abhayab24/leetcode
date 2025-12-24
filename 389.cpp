@@ -7,4 +7,4 @@ int main(){
     for(char c : s1) ans^=c;
     for(char c : s2) ans^=c;
     cout<<ans<<" ";
-}
+}//comment
