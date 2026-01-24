@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+    vector<int> nums = {2,3,1,2,4,3};
+    int target = 7;
+
+    int l = 0, sum = 0;
+    int n = nums.size();
+    int currlen = INT_MAX;
+
+    for(int right = 0; right < n; right++){
+        sum += nums[right];
+        while(sum >= target){
+            currlen = min(currlen, right - l + 1);
+            sum -= nums[l];
+            l++;
+        }
+    }
+
+    cout << (currlen == INT_MAX ? 0 : currlen);
+}
