@@ -15,3 +15,6 @@ int main(){
             cout<<nums[i]<<" ";
         }
     }
+
+    //somethihng new going to add in this
+    
