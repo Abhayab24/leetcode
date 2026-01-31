@@ -2,7 +2,7 @@
 using namespace std;
 string minWindow(string s, string t) {
     unordered_map<char,int> mp;
-    for(char c : t) mp[c]++;
+    for(char c : t) mp[c]++;//comment
 
     int i = 0, count = t.length();
     int minLen = INT_MAX, start = 0;
