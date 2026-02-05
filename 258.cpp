@@ -11,7 +11,7 @@ class solution{
             }
             num=sum;
 
-        }//leetcode
+        }
         return num;
     }
 };
