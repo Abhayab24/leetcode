@@ -16,7 +16,7 @@ class Solution{
         return (n==1)?1:0;
     }
 };
-int main(){
+int main(){//hello
     Solution s;
     int n;
     cin>>n;
