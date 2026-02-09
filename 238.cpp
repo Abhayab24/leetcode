@@ -1,0 +1,40 @@
+#include <bits/stdc++.h>
+using namespace std;
+// int main(){
+//     vector<int> nums={1,2,3,4};
+//         vector <int> ans;
+//         int prod=1;
+//         for(int i=0;i<nums.size();i++){
+//             prod*=nums[i];  
+//         }
+//         for(int i=0;i<nums.size();i++){
+            
+//             ans.push_back(prod/nums[i]);
+//         }
+//         for(int x:ans)
+//         cout<<x<<" ";
+// }
+
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n=nums.size();
+        vector <int> ans(n,1);
+        int prefix=1;    
+        for(int i=1;i<n;i++){
+            ans[i]=ans[i-1]*nums[i-1];
+        }
+        int suffix=1;
+        for(int i=n-2;i>=0;i--){
+            suffix*=nums[i+1];
+            ans[i]*=suffix;
+        }
+        return ans;
+    }
+};
+int main(){
+    Solution s;
+    vector<int> nums={1,2,3,4};
+    vector <int> res=s.productExceptSelf(nums);
+    for(int x:res) cout<<x<<" ";
+}
