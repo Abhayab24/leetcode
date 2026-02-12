@@ -24,4 +24,5 @@ int main(){
         for(int x:store){
             cout<<x<<" ";
         }
+        //cpp question
     }
