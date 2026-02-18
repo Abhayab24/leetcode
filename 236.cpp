@@ -55,7 +55,7 @@ int main() {
     TreeNode* q = root->left->right->right;  // Node 4
 
     Solution sol;
-    TreeNode* ans = sol.lowestCommonAncestor(root, p, q);
+    TreeNode* ans = sol.lowestCommonAncestor(root, p, q);//commit
 
     if (ans)
         cout << "LCA: " << ans->val << endl;
