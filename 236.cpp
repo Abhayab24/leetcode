@@ -62,5 +62,5 @@ int main() {
     else
         cout << "LCA not found" << endl;
 
-    return 0;
+    return 0;//new question
 }
