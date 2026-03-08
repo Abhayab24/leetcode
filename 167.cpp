@@ -31,6 +31,6 @@ int main(){
     res=s.twoSum(nums,tar);
     for(int x:res){
     cout<<x;
-    }//question added
+    }//question
 
 }
