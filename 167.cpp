@@ -34,8 +34,3 @@ int main(){
     }//question
 
 }//added something in it
-
-
-//added again
-//
-
