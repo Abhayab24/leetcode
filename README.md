@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
 <!---LeetCode Topics End-->
