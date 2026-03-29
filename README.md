@@ -17,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
 | [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
