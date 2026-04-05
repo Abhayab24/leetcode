@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
