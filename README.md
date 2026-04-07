@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
 | [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
