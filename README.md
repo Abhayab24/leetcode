@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhayab24/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhayab24/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Abhayab24/leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abhayab24/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
