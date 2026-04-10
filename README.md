@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Abhayab24/leetcode/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Abhayab24/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhayab24/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Abhayab24/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhayab24/leetcode/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
