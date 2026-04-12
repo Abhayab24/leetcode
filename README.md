@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Abhayab24/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Abhayab24/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhayab24/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Simulation
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
