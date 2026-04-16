@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Abhayab24/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abhayab24/leetcode/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
