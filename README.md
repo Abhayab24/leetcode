@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0661-image-smoother](https://github.com/Abhayab24/leetcode/tree/master/0661-image-smoother) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhayab24/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhayab24/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Binary Search
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
