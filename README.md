@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0661-image-smoother](https://github.com/Abhayab24/leetcode/tree/master/0661-image-smoother) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhayab24/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhayab24/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhayab24/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhayab24/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhayab24/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
