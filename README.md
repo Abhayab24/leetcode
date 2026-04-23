@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhayab24/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhayab24/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhayab24/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhayab24/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhayab24/leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhayab24/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhayab24/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhayab24/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
