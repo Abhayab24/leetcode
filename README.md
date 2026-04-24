@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhayab24/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhayab24/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Abhayab24/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Abhayab24/leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
