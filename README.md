@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhayab24/leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Abhayab24/leetcode/tree/master/2833-furthest-point-from-origin) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
