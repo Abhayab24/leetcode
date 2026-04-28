@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abhayab24/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhayab24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0661-image-smoother](https://github.com/Abhayab24/leetcode/tree/master/0661-image-smoother) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/Abhayab24/leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhayab24/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhayab24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhayab24/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Abhayab24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
 ## Counting
 |  |
