@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhayab24/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Abhayab24/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Abhayab24/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhayab24/leetcode/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Abhayab24/leetcode/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Abhayab24/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhayab24/leetcode/tree/master/0876-middle-of-the-linked-list) |
