@@ -1,23 +1,16 @@
 class Solution {
 public:
-int sqr(int n){
-    int sum=0;
-    int dig;
-    while(n>0){
-            dig=n%10;
-            sum+=pow(dig,2);
-            n/=10;
-        }
-    return sum;
-}
     bool isHappy(int n) {
-        int slow=n;
-        int fast=n;
-    do{
-        slow=sqr(slow);
-        fast=sqr(sqr(fast));
-    }while(slow!=fast);
-        
-    return slow==1;
+        if(n==1 || n==7) return true;
+        else if(n<10) return false;
+        else{
+            int sum=0;
+            while(n>0){
+                int temp=n%10;
+                sum+= temp*temp;
+                n=n/10;
+            }
+            return isHappy(sum);
+        }
     }
 };
