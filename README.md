@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Abhayab24/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Abhayab24/leetcode/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhayab24/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhayab24/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhayab24/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhayab24/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhayab24/leetcode/tree/master/0217-contains-duplicate) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhayab24/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
