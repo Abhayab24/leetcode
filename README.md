@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhayab24/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Abhayab24/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abhayab24/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Abhayab24/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Abhayab24/leetcode/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhayab24/leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhayab24/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhayab24/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
