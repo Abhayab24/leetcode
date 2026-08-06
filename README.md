@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhayab24/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Abhayab24/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Abhayab24/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Abhayab24/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abhayab24/leetcode/tree/master/0290-word-pattern) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhayab24/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Abhayab24/leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Abhayab24/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Abhayab24/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhayab24/leetcode/tree/master/0876-middle-of-the-linked-list) |
