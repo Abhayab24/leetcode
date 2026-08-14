@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhayab24/leetcode/tree/master/0290-word-pattern) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayab24/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhayab24/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0567-permutation-in-string](https://github.com/Abhayab24/leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhayab24/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhayab24/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Abhayab24/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhayab24/leetcode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhayab24/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhayab24/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Abhayab24/leetcode/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhayab24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Abhayab24/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Abhayab24/leetcode/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/Abhayab24/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhayab24/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayab24/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhayab24/leetcode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Abhayab24/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
