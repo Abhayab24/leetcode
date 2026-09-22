@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhayab24/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhayab24/leetcode/tree/master/0217-contains-duplicate) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/Abhayab24/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhayab24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Abhayab24/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0661-image-smoother](https://github.com/Abhayab24/leetcode/tree/master/0661-image-smoother) |
