@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abhayab24/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Abhayab24/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Abhayab24/leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Abhayab24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhayab24/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhayab24/leetcode/tree/master/0217-contains-duplicate) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhayab24/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhayab24/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Abhayab24/leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Abhayab24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhayab24/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Abhayab24/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Abhayab24/leetcode/tree/master/0202-happy-number) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abhayab24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhayab24/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhayab24/leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhayab24/leetcode/tree/master/1331-rank-transform-of-an-array) |
