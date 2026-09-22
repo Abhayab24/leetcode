@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhayab24/leetcode/tree/master/0043-multiply-strings) |
 | [0874-walking-robot-simulation](https://github.com/Abhayab24/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhayab24/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2460-apply-operations-to-an-array](https://github.com/Abhayab24/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhayab24/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhayab24/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2460-apply-operations-to-an-array](https://github.com/Abhayab24/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2615-sum-of-distances](https://github.com/Abhayab24/leetcode/tree/master/2615-sum-of-distances) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhayab24/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3637-trionic-array-i](https://github.com/Abhayab24/leetcode/tree/master/3637-trionic-array-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Abhayab24/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhayab24/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayab24/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/Abhayab24/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
